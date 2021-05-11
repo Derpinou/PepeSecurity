@@ -108,11 +108,8 @@ This is an example of how to list things you need to use the software and how to
    npm i
    ```
 3. Enter your TOKEN in `/botconfig/config.json`
-   ```JSON
-   {
+   ```
   "token": "TOKEN",
-}
-
    ```
 
 
