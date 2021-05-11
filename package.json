@@ -1,0 +1,21 @@
+{
+  "name": "pepesecurity",
+  "version": "1.0.0",
+  "description": "Open-Source Discord Project Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "xokirBios",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "discord.js": "^12.5.1",
+    "nekos.life": "^2.0.7"
+  },
+  "devDependencies": {
+    "ascii-table": "0.0.9",
+    "colors": "^1.4.0"
+  }
+}
