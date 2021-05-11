@@ -16,10 +16,10 @@
   <p align="center">
     Open Source Discord project bot called PepeSecurity
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://discord.com/oauth2/authorize?client_id=820011760000958516&scope=bot&permissions=8"><strong>Add PepeSecurity »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://discord.gg/EuRSH3N4">View Demo</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
     ·
