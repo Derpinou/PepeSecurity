@@ -2,11 +2,6 @@
 
 
 
-[![Forks][forks-shield]][https://github.com/xokirBios/PepeSecurity/forks]
-[![Stargazers][stars-shield]][https://github.com/xokirBios/PepeSecurity/stargazers]
-[![MIT License][license-shield]][license-url]
-
-
 
 
 <!-- PROJECT LOGO -->
