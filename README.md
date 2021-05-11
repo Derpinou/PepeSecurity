@@ -57,11 +57,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
+https://cdna.artstation.com/p/assets/images/images/032/349/282/large/nick-bassett-pp.jpg?1606188349
 
-
-
+![](https://cdna.artstation.com/p/assets/images/images/032/349/282/large/nick-bassett-pp.jpg?1606188349)
 <!-- GETTING STARTED -->
 
 ### Installation
