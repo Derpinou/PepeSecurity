@@ -58,7 +58,6 @@
 ## About The Project
 
 
-https://cdna.artstation.com/p/assets/images/images/032/349/282/large/nick-bassett-pp.jpg?1606188349
 
 ![](https://cdna.artstation.com/p/assets/images/images/032/349/282/large/nick-bassett-pp.jpg?1606188349)
 <!-- GETTING STARTED -->
