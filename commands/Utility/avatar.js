@@ -16,8 +16,8 @@ module.exports = {
              .setTitle(`${member.user.username}'s Avatar`)
              .setColor(ee.color)
              .setFooter(ee.footertext, ee.footericon)
-             .setImage(member.user.avatarURL())
-             .setURL(member.user.avatarURL())
+             .setImage(member.user.avatarURL({format: `png`, dynamic: true, size: 1024}))
+             .setURL(member.user.avatarURL({format: `png`, dynamic: true, size: 1024}))
          message.channel.send(avatar)
      }
  };
